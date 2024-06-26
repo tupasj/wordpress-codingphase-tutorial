@@ -350,7 +350,7 @@
       <h6>Web Developer</h6>
     </footer>
 
-    <script src="js/app.js"></script>
+    <script src="<?php echo get_bloginfo('template_directory'); ?>/js/app.js"></script>
 
 
   </body>
